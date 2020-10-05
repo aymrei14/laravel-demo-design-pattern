@@ -15,4 +15,5 @@ class LandingController extends Controller
     {
         return response()->json('lab data science');
     }
+    // coba comment
 }
