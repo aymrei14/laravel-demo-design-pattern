@@ -10,4 +10,10 @@ class LandingController extends Controller
     {
         return response()->json('test 123');
     }
+
+    public function testing()
+    {
+        return response()->json('lab data science');
+    }
+    // coba comment
 }
